@@ -1,2 +1,3 @@
-# P1--Build-a-Portfolio-Site
-Project 1 for Front-End Web Developer Nanodegree
+Project P1- Build a Portfolio Site
+
+Front-End Web Developer Nanodegree
