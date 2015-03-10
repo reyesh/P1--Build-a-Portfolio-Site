@@ -1,0 +1,20 @@
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.header-thick {
+	font-weight: 900;
+}
+
+.header-logo {
+	margin-top: 20px;
+}
+
+.header-title {
+	margin-top: 30px;
+	font-size: 190px;
+}
+
+.header-hspace {
+	line-height: 0.3;
+}
