@@ -1,20 +1,74 @@
 body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
-.header-thick {
-	font-weight: 900;
-}
-
+/*
+header
+*/
 .header-logo {
-	margin-top: 20px;
-}
-
-.header-title {
-	margin-top: 30px;
-	font-size: 190px;
+	margin-top: 50px;
 }
 
 .header-hspace {
 	line-height: 0.3;
 }
+
+.header-title {
+	margin-top: 85px;
+}
+
+.header-titlew {
+	font-weight: 900;
+	letter-spacing: -3px;
+}
+
+.mid-title-grey {
+	color: #757575;
+}
+
+/* Footer
+*/
+.footer {
+	font-size: 12px;
+	
+}
+
+.project {
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.sprite-facebook {
+  background-image: url(http://lh5.ggpht.com/ZXSdf1sLeLOjJoixiLaWsE-9lhQO14JUioEruJxFLI1JHRgkPa9rkUW_cwikF-Z55sgM9YqlkwzaiBms5Hg=s127);
+  background-position: -32px -32px;
+  width: 31px;
+  height: 31px;
+}
+
+.sprite-twitter {
+  background-image: url(http://lh5.ggpht.com/ZXSdf1sLeLOjJoixiLaWsE-9lhQO14JUioEruJxFLI1JHRgkPa9rkUW_cwikF-Z55sgM9YqlkwzaiBms5Hg=s127);
+  background-position: -96px -96px;
+  width: 31px;
+  height: 31px;
+}
+
+.sprite-gplus {
+  background-image: url(http://lh5.ggpht.com/ZXSdf1sLeLOjJoixiLaWsE-9lhQO14JUioEruJxFLI1JHRgkPa9rkUW_cwikF-Z55sgM9YqlkwzaiBms5Hg=s127);
+  background-position: -32px -64px;
+  width: 31px;
+  height: 31px;
+}
+
+.sprite-linkedin {
+  background-image: url(http://lh5.ggpht.com/ZXSdf1sLeLOjJoixiLaWsE-9lhQO14JUioEruJxFLI1JHRgkPa9rkUW_cwikF-Z55sgM9YqlkwzaiBms5Hg=s127);
+  background-position: -96px -64px;
+  width: 31px;
+  height: 31px;
+}
+
+.sprite-social {
+  margin-right: 10px;
+}
+
+.sprite {
+  position: relative;
+  display: inline-block;
